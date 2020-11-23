@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\asakpib\\.conda\\envs\\mssql\\python.exe",
+    "python.pythonPath": "c:\\ProgramData\\Anaconda3\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "jupyter.jupyterServerType": "local"

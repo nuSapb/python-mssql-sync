@@ -8,9 +8,9 @@ ECHO ============================
 @CALL "C:\ProgramData\Anaconda3\Scripts" mssql
 :: Section 2: Execute python script.
 ECHO ============================
-ECHO Python dbsync2.py
+ECHO Python dbsync3.py
 ECHO ============================
-python H:\python-mssql-sync\dbsync2.py
+python H:\python-mssql-sync\dbsync3.py
 
 ECHO ============================
 ECHO End

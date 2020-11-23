@@ -102,7 +102,9 @@ CREATE TABLE StepResults
     ExecutionTime float
 );
 
-
+SELECT TOP 0 *
+INTO [A123_FCT3_DBSync].[dbo].[UUTresults]
+FROM [A123_FCT2_DBSync].[dbo].[UUTresults]
 
 
 
